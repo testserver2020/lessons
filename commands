@@ -5,6 +5,6 @@ How to add a file in git repository
 3. touch file
 4. vim file
 5. git add file
-6. git commit (add coment about this file) 
+6. git commit (add comment about this file) 
 7. git pull
 8. git push origin master 
