@@ -1,0 +1,6 @@
+Commands about installing and using ssh protocol
+
+1. sudo apt install openssh-server
+2. ssh-keygen
+3. cd ~/.ssh
+4. id_rsa.pub  in this file your public key
