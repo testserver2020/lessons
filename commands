@@ -1,0 +1,10 @@
+How to add a file in git repository
+
+1. git clone git@github.com:testserver2020/lessons.git
+2. for example - cd lessons
+3. touch file
+4. vim file
+5. git add file
+6. git commit (add comment about this file) 
+7. git pull
+8. git push origin master 
