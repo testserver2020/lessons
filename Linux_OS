@@ -1,0 +1,90 @@
+Introduction (evolution, distributions)
+    • What is Linux / Unix?
+    • Name well-known Linux distributions?
+    • What is the main advantages of the Linux operating system?
+    • Why will you use Linux OS instead of the other operating systems? 
+    • What type of licenses do you know?
+    • What is the difference between GPL and LGPL licenses?
+
+OS Install (partitioning, file system types, dual boot)
+    • Describe the Hard disk drive structure.
+    • What does disk partitioning mean?
+    • Name the types of the partitions and possible number of the partitions.
+    • What is master boot record?
+    • What type of the disk file systems does Linux system support?
+    • What is Live CD or Live USB
+    • How does the booting from the Live CD work?
+
+Shell and simple commands
+    • How to change current directory?
+    • Go to parent directory.
+    • Display current directory absolute path.
+    • Create directory.
+    • Create file.
+    • Describe the 'cp' function syntax.
+    • How to copy directories?
+    • What the difference of the 'mv' and 'cp' functions?
+    • How to view content of the file?
+    • Redirect the output of the ls command in to file.
+    • What the difference of the redirection using '>' and '>>'
+    • Get all files in the current directory which has rwx permissions.
+    • Find all files in /usr directory which start with 'aa'.
+
+Users, groups, file types, permissions
+    • What is a home directory?
+    • What type of information is stored in users home directory?
+    • Path of the home directory of the «poghos» user.
+    • How to create/delete a new user/group?
+    • Where is the information stored about users and group?
+    • How to change the password of the user?
+    • What type of permissions can have user and group on the file?
+    • How to change the users group and world users permissions?
+    • How to change file owner user and owner group?
+    • What is considered file in the Linux system?
+    • How to view the file properties?
+    • Enumerate the file types in Linux?
+    • What does the character device mean?
+    • What does the block device mean?
+
+Installation packages and package managers
+    • What is package manager?
+    • What type of information is stored in the packages?
+    • Enumerate the well known package types.
+    • Enumerate the well known package managers.
+    • How to install/remove/update  .deb packages manually?
+
+Process life-cycle, types, monitoring and controlling
+    • What does interactive process mean?
+    • What is an automatic process?
+    • What is a deamon process?
+    • What type of attributes does a process have?
+    • Enumerate and explain the commands for process monitoring.
+    • What does forking mean?
+    • What does exec system call?
+    • How to stop process?
+    • How to end process?
+
+
+
+Vim, bash
+
+    • What is VIM?
+    • Enumerate the operation modes.
+    • What are the motion commands in normal mode?
+    • How to enter each mode?
+    • How to enable highlight search?
+    • What is bash?
+    • What is an environment variable?
+    • Write a command which creates A/B/C directory hierarchy.
+    • Create a symbolic link of the A/B/C/file.txt file in the A directory, when your current directory is B.
+    • Set the ~/Desktop as a default working directory when the bash initiated.
+    • What is the PATH variable used for?
+    • How to get the information regarding the current host architecture, host name, installed OS ?
+
+Git
+    • What is GIT?
+    • What is version/release control?
+    • How to create GIT repository?
+    • How to add a project to GIT repository?
+    • How to see differences since the last commit in GIT?
+    • How to review the status of the working tree in GIT?
